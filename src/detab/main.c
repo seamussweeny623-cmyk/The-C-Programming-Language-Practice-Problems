@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(){
-    printf("This is the main method!");
+    printf("This is the main method of the detab program!");
 }
