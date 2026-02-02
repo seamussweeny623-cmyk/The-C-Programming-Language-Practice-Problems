@@ -1,0 +1,22 @@
+# --- Compiled binaries ---
+*.exe
+*.out
+a.out
+
+# --- Object files ---
+*.o
+
+# --- Build directories ---
+build/
+bin/
+
+# --- Debug files ---
+*.dSYM/
+*.pdb
+
+# --- VS Code settings (optional) ---
+.vscode/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
